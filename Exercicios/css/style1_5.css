@@ -1,0 +1,49 @@
+/* Exercício 1 e 2*/
+
+.buttonVoltar {
+    width: 150px;
+    color: white;
+    background-color: red;
+    border: 2;
+    font-size: 14px;
+    padding: 5px 0 5px 0;
+    margin-bottom: 10px;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.textoExemplo {
+    margin-top: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.content {
+    max-width: max-content;
+    margin: 0 auto;
+}
+
+.content>div {
+    float: left;
+    margin-right: 5px;
+}
+
+.content div>div {
+    position: relative;
+    right: 100px;
+    text-align: center;
+}
+
+a:link {
+    color: #FFF;
+    text-decoration: none;
+    background-color: black;
+}
+
+a:visited {
+    background-color: pink;
+    color: red;
+}
+
+a:hover {
+    background-color: green;
+}
