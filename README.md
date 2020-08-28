@@ -4,7 +4,7 @@ Lista de exercícios #2 em HTML - Senac 2020
 Desenvolvimento WEB
 
 # Instruções
-<b>*Exercício 1*<b>: Sem modificar NADA no HTML, somente utilizando CSS, seus seletores e a propriedade display, faça com que a página exer1.html seja interpretada da seguinte maneira:
+*Exercício 1*: Sem modificar NADA no HTML, somente utilizando CSS, seus seletores e a propriedade display, faça com que a página exer1.html seja interpretada da seguinte maneira:
 (vide imagem PDF)
  
 *Exercício 2*: Sem modificar NADA no HTML, somente utilizando CSS, seus seletores e a propriedade display, faça com que a página exer2.html seja interpretada da seguinte maneira:
