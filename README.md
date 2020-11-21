@@ -66,3 +66,5 @@ https://www.w3schools.com/css/css_link.asp
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes  
 https://www.w3schools.com/cssref/pr_background-image.asp  
 https://www.w3schools.com/cssref/css3_pr_background-size.asp 
+
+---
